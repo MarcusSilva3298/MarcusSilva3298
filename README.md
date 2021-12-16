@@ -1,13 +1,13 @@
 ### Hello there! My name is Marcus Silva! 👋
 
 <a href="https://www.linkedin.com/in/marcus-silva-50995b180/" alt="LinkedIn">
-  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:marcussilva3298@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/marcus.slv/">
-  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=Instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
 </a>
 
 <br />
@@ -49,7 +49,7 @@ Junior Full Stack Developer living in Natal, Brazil 🇧🇷. Most skilled in de
 <div>
 <img src="https://img.shields.io/badge/-Prisma-0c354b?style=flat&logo=Prisma" alt="Prisma" />
 <img src="https://img.shields.io/badge/-Jest-c53d15?style=flat&logo=Jest" alt="Jest" />
-<img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" alt="Git" /> 
+<img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" alt="Git" />
 <img src="https://img.shields.io/badge/-GitHub-313131?style=flat&logo=github" alt="GitHub" /> 
 <img src="https://img.shields.io/badge/-Insomnia-675bbf?style=flat&logo=Insomnia" alt="Insomnia" /> 
 </div>
