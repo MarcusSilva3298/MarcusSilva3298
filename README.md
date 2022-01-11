@@ -26,7 +26,7 @@ Junior Full Stack Developer living in Natal, Brazil 🇧🇷. Most skilled in de
 <div>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript" /> 
-  <img src="https://img.shields.io/badge/-Python-002750?style=flat&logo=python" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-Python-002750?style=flat&logo=python" alt="Python" />
 </div>
 
 **Stacks**
@@ -34,6 +34,7 @@ Junior Full Stack Developer living in Natal, Brazil 🇧🇷. Most skilled in de
 <div>
 <img src="https://img.shields.io/badge/-React%20Native-20232A?style=flat&logo=react" alt="React Native" /> 
 <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" alt="Nodejs" />
+<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django"/>
 </div>
 
 **Databases**
