@@ -17,7 +17,7 @@ Junior Full Stack Developer living in Natal, Brazil 🇧🇷. Most skilled in de
 
 - ⚙️ I’m currently working at <a href="https://github.com/interas1999">INTERAS Tecnologia</a>.
 - 📖 I believe in continued education for there is never enough knowledge, so I am constantly studying.
-- 🌱 I would love to explore and learn: **React**, **NestJS**, **Devops** and more.
+- 🌱 I would love to explore and learn: **React**, **Devops** and more.
 - 🗣️ I'm fluent in English and Portuguese.
 
 ###  🛠 Languages and Tools
@@ -32,14 +32,16 @@ Junior Full Stack Developer living in Natal, Brazil 🇧🇷. Most skilled in de
 **Stacks**
 
 <div>
-<img src="https://img.shields.io/badge/-React%20Native-20232A?style=flat&logo=react" alt="React Native" /> 
-<img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" alt="Nodejs" />
-<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django"/>
+<img src="https://img.shields.io/badge/-React%20Native-20232A?style=flat&logo=react" alt="React Native" />
+<img src="https://img.shields.io/badge/Nest-E0234E?style=flat&logo=nestjs&logoColor=white" alt="Nodejs" />
+<img src="https://img.shields.io/badge/Node-3E863D?style=flat&logo=node.js&logoColor=white" alt="Nodejs" />
+<img src="https://img.shields.io/badge/Django-2BA977?style=flat&logo=django&logoColor=white" alt="Django"/>
 </div>
 
 **Databases**
 
 <div>
+<img src="https://img.shields.io/badge/Docker-1D91B4?style=flat&logo=docker&logoColor=white" alt="PostgreSQL" /> 
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" /> 
 <img src="https://img.shields.io/badge/-MongoDB-116148?style=flat&logo=mongodb" alt="MongoDB" /> 
 <img src="https://img.shields.io/badge/-Redis-c6302b?style=flat&logo=redis&logoColor=white" alt="Redis" /> 
