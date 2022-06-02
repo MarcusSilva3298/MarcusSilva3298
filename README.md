@@ -15,7 +15,6 @@
 
 Junior Full Stack Developer living in Natal, Brazil 🇧🇷. Most skilled in developing APIs and integrations between systems and applications.
 
-- ⚙️ I’m currently working at <a href="https://github.com/interas1999">INTERAS Tecnologia</a>.
 - 📖 I believe in continued education for there is never enough knowledge, so I am constantly studying.
 - 🌱 I would love to explore and learn: **React**, **Devops** and more.
 - 🗣️ I'm fluent in English and Portuguese.
