@@ -1,6 +1,6 @@
 ### Hello there! My name is Marcus Silva! 👋
 
-<a href="https://www.linkedin.com/in/marcus-silva-50995b180/" alt="LinkedIn">
+<a href="https://www.linkedin.com/in/marcus-slv/" alt="LinkedIn">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:marcus.slv.tech@gmail.com" alt="Gmail">
@@ -10,7 +10,7 @@
 <br />
 <br />
 
-Junior Full Stack Developer living in Natal, Brazil 🇧🇷.
+Backend Developer living in Natal, Brazil 🇧🇷.
 
 - 📖 I believe in continued education for there is never enough knowledge, so I am constantly studying.
 - 🌱 I would love to explore and learn: **Devops**, **Project Achiteture** and more.
@@ -27,26 +27,24 @@ Junior Full Stack Developer living in Natal, Brazil 🇧🇷.
 **Stacks**
 
 <div>
-<img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" alt="NextJS" />
-<img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" alt="React" />
-<img src="https://img.shields.io/badge/-React%20Native-20232A?style=flat&logo=react" alt="React Native" />
 <img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white" alt="Nest.js" />
+<img src="https://img.shields.io/badge/Express.js-2304d59?style=flat&logo=express&logoColor=white" alt="Express.js" />
 <img src="https://img.shields.io/badge/Node-3E863D?style=flat&logo=node.js&logoColor=white" alt="Nodejs" />
 </div>
 
 **Databases**
 
 <div>
-<img src="https://img.shields.io/badge/Docker-1D91B4?style=flat&logo=docker&logoColor=white" alt="Docker" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt="MySQL" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" /> 
 <img src="https://img.shields.io/badge/-MongoDB-116148?style=flat&logo=mongodb" alt="MongoDB" /> 
 <img src="https://img.shields.io/badge/-Redis-c6302b?style=flat&logo=redis&logoColor=white" alt="Redis" /> 
 </div>
 
-**Other Tecnologies**
+**Other Technologies**
 
 <div>
+<img src="https://img.shields.io/badge/Docker-1D91B4?style=flat&logo=docker&logoColor=white" alt="Docker" />
 <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff" alt="GraphQL" />
 <img src="https://img.shields.io/badge/-Prisma-0c354b?style=flat&logo=Prisma" alt="Prisma" />
 <img src="https://img.shields.io/badge/TypeORM-FE0803?logo=typeorm&logoColor=fff" alt="TypeORM" />
@@ -56,7 +54,14 @@ Junior Full Stack Developer living in Natal, Brazil 🇧🇷.
 <img src="https://img.shields.io/badge/-Insomnia-675bbf?style=flat&logo=Insomnia" alt="Insomnia" /> 
 <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman" />
 </div>
-  
+
+**Front End Technologies**
+<div>
+<img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" alt="NextJS" />
+<img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" alt="React" />
+<img src="https://img.shields.io/badge/-React%20Native-20232A?style=flat&logo=react" alt="React Native" />
+</div>
+
 ### About Me
 
 I am an avid gamer and reader 🎮📚. I am also a musician who plays guitar 🎸. I'm up for anything if it's with good company 🤗.
